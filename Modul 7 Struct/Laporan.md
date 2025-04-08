@@ -116,7 +116,7 @@ func main() {
 ```
 
 
-![](Modul%207%20Struct/output/soal1.png)
+![](output/soal1.png)
 
 Program ini bertujuan untuk menentukan **posisi sebuah titik sembarang** terhadap dua lingkaran menggunakan **struct**. Program menerima input berupa koordinat titik pusat dan radius dari dua lingkaran, serta satu titik sembarang. Output yang dihasilkan berupa posisi titik terhadap lingkaran-lingkaran tersebut.
 
@@ -322,7 +322,7 @@ func main() {
 }
 ```
 
-![](Modul%207%20Struct/output/soal2.png)
+![](output/soal2.png)
 
 Program ini digunakan untuk membuat sebuah array. Ketika program berjalan, program akan meminta untuk memasukan angka, yaitu untuk menentukan berapa banyak index yang akan ada di dalam array. Bisa dibilang sebagai kapasitas dari array yang akan dibuat. Kemudian, program akan meminta memasukan elemen ke dalam array yang telah terbuat, yaitu menggunakan perulangan. Akan ada inputan yang terus berulang hingga batasnya yaitu nilai yang dimasukan di awal program berjalan. Kemudian program akan bisa menghapus elemen yang ada dalam array, menampilkan nilai rata-rata dari nilai elemen array, menentukan elemen dengan kelipatan index tertentu, menampilkan nilai elemen berdasarkan genap atau ganjil index array, serta mencari frekuensi dari nilai yang diinginkan.
 
@@ -543,7 +543,7 @@ func main() {
 }
 ```
 
-![](Modul%207%20Struct/output/soal3.png)
+![](output/soal3.png)
 
 Program ini digunakan untuk **mencatat hasil pertandingan antara dua klub sepak bola** sebanyak yang diinginkan user, sampai skor negatif dimasukkan sebagai sinyal untuk berhenti. Setelah itu, program akan mencetak hasil pemenang dari setiap pertandingan.
 
@@ -655,7 +655,7 @@ func main() {
 }
 ```
 
-![](Modul%207%20Struct/output/soal4.png)
+![](output/soal4.png)
 
 Program ini dibuat menggunakan bahasa pemrograman Go untuk mengolah karakter dalam array. Program menerima input berupa karakter hingga menemukan tanda titik (.), lalu menyimpan karakter tersebut dalam array bertipe `rune`. Setelah itu, program mencetak karakter yang telah dimasukkan, membalik urutannya, dan memeriksa apakah karakter tersebut membentuk palindrom atau tidak. Program ini menggunakan konsep fungsi untuk memisahkan tugas-tugas utama, seperti mengisi array, mencetak array, membalik array, dan memeriksa palindrom.
 
